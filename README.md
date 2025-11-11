@@ -15,14 +15,15 @@ The core of this project demonstrates **Object Composition** ("HAS-A" relationsh
 
 ```bash
 python main.py
+```
 
 
-💻 Tech Stack
+## 💻 Tech Stack
 Python 3
 
 Object-Oriented Programming (Classes, Objects, Composition)
 
-🎮 Basic Commands
+##🎮 Basic Commands
 look (to see the room)
 
 go [direction] (e.g., go north)
