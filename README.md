@@ -23,7 +23,7 @@ Python 3
 
 Object-Oriented Programming (Classes, Objects, Composition)
 
-##🎮 Basic Commands
+## 🎮 Basic Commands
 look (to see the room)
 
 go [direction] (e.g., go north)
